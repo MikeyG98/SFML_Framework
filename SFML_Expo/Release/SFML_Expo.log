@@ -1,0 +1,2 @@
+﻿  main.cpp
+sfml-graphics-2.dll : fatal error LNK1107: invalid or corrupt file: cannot read at 0x2D0
